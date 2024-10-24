@@ -1,4 +1,4 @@
-# Spring-boot Banking
+# Spring-boot Banking 
 Example project demonstrating the use of Java and Spring-boot to build a microservice to be used by an online bank
 
 ## Running locally
